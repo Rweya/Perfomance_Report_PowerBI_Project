@@ -2,6 +2,7 @@
 Project Background
 
 The purpose of this Power BI project is to analyze geographic and account-level data for multiple business entities operating within China. The dataset includes various fields such as account names, master and account IDs, geolocation details (latitude and longitude), and street information. These data points allow for insights into business distribution, regional concentration, and potential growth areas based on geographic segmentation.
+
 The project aims to provide key insights on:
 1. Geographical Distribution: Analyze how business entities are distributed across different regions in China based on latitude, longitude, and street-level data.
 2. Regional Density: Identify regions with high concentrations of businesses, which can help stakeholders understand market saturation and opportunities for expansion.
